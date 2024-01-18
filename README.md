@@ -1,5 +1,9 @@
 # Practice: React-Redux Rating Input
 
+
+![Pet Reviews](https://github.com/haolam05/Pet-Review/assets/71291057/f08b7e14-d573-4a3e-bb67-1b66822c010c)
+
+
 In this practice, you will create a rating input for a form using FontAwesome
 icons.
 
